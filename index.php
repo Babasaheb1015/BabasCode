@@ -5,7 +5,7 @@
 <h1>This is Incridible but This is Second Time, My first PHP page</h1>
 
 <?php
-echo "Hello World, This From Server1";
+echo "Hello World, This From Server 1";
 ?>
 
 </body>
