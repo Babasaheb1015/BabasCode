@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <body>
+<title> Tihs is Corona Virose instruction </title>
 
-<h1> This is Verious Time, Its my first PHP page</h1>
+<h1> stay isolate from Corona, stay at home</h1>
 
 <?php
-echo "PracticeNo.1  Shreya&Raj Hello World, This From Server 2 prepairing for examps";
+echo "PracticeNo.1  wash your Hands regulerly after few time";
 ?>
 
 </body>
