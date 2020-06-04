@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<title> Tihs is Corona Virose instruction </title>
+<title> Tihs nstructions form me to world  </title>
 
-<h1> stay isolate from, we Love World but there is Corona, stay at home</h1>
+<h1> stay isolate from eatch other,stay at home</h1>
 
 <?php
 echo "PracticeNo.1  wash your Hands regulerly after few time";
