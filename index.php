@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<title> Tihs nstructions form me to world  </title>
+<title> this version 2 Tihs nstructions form me to world  </title>
 
 <h1> stay isolate from eatch other,stay at home</h1>
 
